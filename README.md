@@ -5,7 +5,7 @@
 - Python
 - Javascript
 
-👀 Interested in **Networking and IoT**
+👀 Interested in **Networks and IoT**
 
 <!---
 rdhwan/rdhwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
