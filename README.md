@@ -4,7 +4,7 @@ Hi 👋 My name is Fathan Ridhwan
 A newbie developer💪
 --------------------
 
-* 🧠  I'm learning React & React Native
+* 🧠  I'm learning Javascript and .NET
 * ⚡  Interested in Networks and IoT
 
 ### Socials
