@@ -4,7 +4,7 @@ Hi 👋 My name is Fathan Ridhwan
 A newbie developer💪
 --------------------
 
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Flutter and ReactJS
 * ⚡  Interested in Networks and IoT
 
 ### Socials
